@@ -266,7 +266,7 @@ The project successfully generates:
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha-Car-Price-Prediction.git
+git clone https://github.com/JayRawal316/CodeAlpha-Car-Price-Prediction.git
 ```
 
 Install dependencies
@@ -311,6 +311,9 @@ Data Science & Machine Learning Enthusiast
 
 CodeAlpha Data Science Internship
 
+github - https://github.com/JayRawal316
+
+Linkedin - http://www.linkedin.com/in/jay-rawal-68462028b
 ---
 
 # 📜 License
